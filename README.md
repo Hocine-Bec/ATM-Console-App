@@ -1,22 +1,20 @@
-# ATM Banking System: Course Project
+# ATM Banking System
 
-## Project Context
+## Overview
 
-This ATM banking system project serves as a practical exercise in functional programming principles using C++. The primary objective was to develop a comprehensive application while focusing on writing clean, maintainable code and applying functional programming concepts.
+This ATM banking system project was developed as a self-learning initiative to explore C++ programming concepts and software design principles. The primary goal was to create a fully functional application, with an emphasis on writing clean, maintainable code while applying functional programming concepts.
 
-## Learning Objectives
+## Features
 
-The project was designed to:
-- Demonstrate proficiency in procedural and functional programming techniques
-- Practice modular code design
-- Implement robust file handling and data management
-- Develop a structured approach to software development
-- Gain experience with:
-  - Function composition
-  - Immutable data structures
-  - Separation of concerns
-  - Pure functions and minimal state manipulation
-
+- User Authentication
+- Transaction Management
+  - Quick Withdraw
+  - Normal Withdraw
+  - Deposit
+  - Balance Inquiry
+- File-based Data Persistence
+- Modular Function Design
+    
 ## Key Functional Programming Concepts Applied
 
 1. **Modular Function Design**
@@ -33,37 +31,27 @@ The project was designed to:
    - Reading and writing files as pure data transformations
    - Minimal global state
    - Consistent data serialization and deserialization
+     
+## Technical Skills Demonstrated
 
-## Project Structure and Design Patterns
+- Procedural Programming
+- File I/O Operations
+- Data Management
+- Console Application Development
+- Error Handling
 
-- Emphasis on function-based architecture
-- Use of enums for clear state management
-- Separation of concerns between UI, data processing, and file management
-- Minimal use of global variables
-- Consistent error handling and input validation
+  ## Learning Objectives
 
-## Technical Highlights
-
-- Implemented without object-oriented programming
-- Utilized C++ standard library effectively
-- Demonstrated file I/O operations
-- Implemented user authentication and transaction management
-- Practiced defensive programming techniques
-
-## Future Learning Path
-
-This project serves as a bridge between procedural and object-oriented programming, preparing for:
-- Refactoring to an object-oriented design
-- Implementing more advanced error handling
-- Exploring more sophisticated functional programming techniques
-
-## Reflections on Functional Approach
-
-The project showcases how functional programming principles can be applied in C++ to create:
-- More predictable code
-- Easier testing and debugging
-- Clear separation of concerns
-- Improved code readability and maintainability
+The project was designed to:
+- Demonstrate proficiency in procedural and functional programming techniques
+- Practice modular code design
+- Implement robust file handling and data management
+- Develop a structured approach to software development
+- Gain experience with:
+  - Function composition
+  - Immutable data structures
+  - Separation of concerns
+  - Pure functions and minimal state manipulation
 
 ## Getting Started
 ### Client File Format
